@@ -43,8 +43,6 @@ def lambda_handler(event, context):
 
 ---
 
-### **README**
-
 #### **1. Environment Setup**
 
 **a. Create AWS Services:**
